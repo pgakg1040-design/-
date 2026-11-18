@@ -1,0 +1,14 @@
+{
+  "$meta": {
+    "schema_version": 1,
+    "name": "我的个人插件源",
+    "version": "1.0.0"
+  },
+  "pgakg1040-design/my-plugin": {
+    "author": "pgakg1040-design",
+    "name": "my-plugin",
+    "version": "1.0.0",
+    "repo": "https://github.com/pgakg1040-design/你的插件仓库名",
+    "desc": "这是插件的简短描述"
+  }
+}
